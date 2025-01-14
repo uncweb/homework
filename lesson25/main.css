@@ -1,0 +1,20 @@
+header{
+    background: #a7611f;
+    height: 60px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+.block{
+    background: #dfab4b;
+}
+footer{
+    background: #8335db;
+    color: white;
+    height: 300px;
+}
+li>a{
+    color: white;
+}
